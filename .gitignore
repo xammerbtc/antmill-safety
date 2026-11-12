@@ -1,0 +1,13 @@
+# Never commit secrets or local credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+id_rsa
+id_ed25519
+*.wallet
+wallet.json
+secrets.env
+.secrets.env
+*.keystore
