@@ -18,6 +18,7 @@ A community token called AUROX is **planned**. It is not live.
 - Telegram helper and Colony Mini App: [@antmill_poster_bot](https://t.me/antmill_poster_bot)
 - Website: [antmill-media.pages.dev](https://antmill-media.pages.dev/)
 - Channel: [@antmill_web3academ](https://t.me/antmill_web3academ)
+- Discord: [AntMill server](https://discord.gg/uVEm7hmWrD)
 - X: [@web3academ](https://x.com/web3academ)
 
 ## License
