@@ -1,0 +1,22 @@
+<!-- AS · AntMill — animated demo frame (one measured archive; a result, not a promise) -->
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="300" viewBox="0 0 880 300" role="img" aria-label="AntMill Memory: one measured archive, 2,521 MB to 184 MB (13.7x)">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#ff5fa2"/><stop offset="1" stop-color="#a855f7"/></linearGradient>
+    <style>
+      .t{font:600 28px Georgia,'Times New Roman',serif;fill:#f5f3ff}
+      .s{font:400 15px -apple-system,Segoe UI,Helvetica,Arial,sans-serif;fill:#a6a1b8}
+      .n{font:700 40px Georgia,serif;fill:#f5f3ff}
+    </style>
+  </defs>
+  <rect width="880" height="300" rx="18" fill="#0b0a10"/>
+  <rect width="880" height="3" fill="url(#g)"/>
+  <text x="40" y="58" class="t">AntMill Memory for AI agents</text>
+  <text x="40" y="84" class="s">One archive we measured. A result, not a promise.</text>
+  <rect x="40" y="120" width="800" height="34" rx="8" fill="#1a1724"/>
+  <rect x="40" y="120" width="800" height="34" rx="8" fill="url(#g)" ><animate attributeName="width" values="800;800;58;58;800" keyTimes="0;0.15;0.45;0.85;1" dur="7s" repeatCount="indefinite"/></rect>
+  <text x="40" y="210" class="n">2,521 MB</text>
+  <g opacity="0"><animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.4;0.5;0.85;1" dur="7s" repeatCount="indefinite"/><text x="300" y="210" class="n">→ 184 MB</text><text x="560" y="210" class="n" fill="#c4b5fd">13.7×</text></g>
+  <text x="40" y="250" class="s">Shared knowledge graph: 1,051 nodes · 2,600 links</text>
+  <text x="40" y="276" class="s">antmill-media.pages.dev/memory</text>
+  <text x="790" y="276" class="s">AntMill™</text>
+</svg>
